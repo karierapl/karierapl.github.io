@@ -56,9 +56,9 @@ body {
 }
 
 .zdjecie2 {
-	text-align: center;
 	float: left;
 	max-width: 45%;
+	max-height: 45%;
 }
 
 .link {
